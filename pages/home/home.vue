@@ -1,6 +1,7 @@
 <template>
 	<view>
-		home
+		<NavBar></NavBar>
+		 <view>111</view>
 	</view>
 </template>
 
